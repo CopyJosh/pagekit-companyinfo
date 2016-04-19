@@ -5,8 +5,10 @@ This Pagekit extension allows you to easyli change your company info, like email
 
 
 ## Installation
-This extentions will be available on the built-in marketplace in your Pagekit installation.
+This extentions is available on the built-in marketplace in your Pagekit installation.
 It's the easiest way to install and update the extension.
+
+Here's a link to the marketplace: https://pagekit.com/marketplace/package/roboto/companyinfo
 
 ## Usage
 To edit the company info, go to `Site -> Settings -> Company Info` in the Pagekit admin area.
