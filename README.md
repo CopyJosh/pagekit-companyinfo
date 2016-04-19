@@ -8,6 +8,9 @@ This Pagekit extension allows you to easyli change your company info, like email
 This extentions will be available on the built-in marketplace in your Pagekit installation.
 It's the easiest way to install and update the extension.
 
+## Usage
+To edit the company info, go to `Site -> Settings -> Company Info` in the Pagekit admin area.
+
 ## Documentation
 To access the saved data, you just echo the `$params` array in your theme.
 Since `$params` is an array, you have to specify the key of the data you want.
