@@ -78,7 +78,7 @@
 
 		section: {
 			label: 'Company Info',
-			icon: 'pk-icon-large-brush',
+			icon: 'uk-icon-briefcase',
 			priority: 14
 		},
 
