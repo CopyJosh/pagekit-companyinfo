@@ -35,10 +35,10 @@
 				</div>
 
 				<div class="uk-form-row">
-					<label class="uk-form-label">{{ 'CVR' | trans }}</label>
+					<label class="uk-form-label">{{ 'CVR/VAT' | trans }}</label>
 					<div class="uk-form-controls uk-form-width-large">
-						<input id="company-cvr" class="uk-form-width-large" name="company-cvr" type="number" v-model="config.company_cvr">
-						<p class="uk-form-help-block">{{ 'Company CVR.' | trans }}</p>
+						<input id="company-vat" class="uk-form-width-large" name="company-vat" type="number" v-model="config.company_vat">
+						<p class="uk-form-help-block">{{ 'Company CVR/VAT (CVR only applys for Danish companies).' | trans }}</p>
 					</div>
 				</div>
 
@@ -108,7 +108,7 @@
 		section: {
 			label: 'Company Info',
 			icon: 'pk-icon-large-brush',
-			priority: 15
+			priority: 14
 		},
 
 		data: function () {
