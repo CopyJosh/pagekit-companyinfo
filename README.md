@@ -24,7 +24,7 @@ data | key | example
 Email | `company_email` |  `$params['company_email']`
 Phone Number | `company_phone` |  `$params['company_phone']`
 VAT | `company_vat` |  `$params['company_vat']`
-Adress | `company_address` |  `$params['company_address']`
+Address | `company_address` |  `$params['company_address']`
 Facebook | `company_facebook` |  `$params['company_facebook']`
 Twitter | `company_twitter` |  `$params['company_twitter']`
 Google Plus | `company_google` |  `$params['company_google']`
